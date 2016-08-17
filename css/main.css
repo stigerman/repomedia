@@ -1,0 +1,154 @@
+.topBar{
+    background-color:#FB3414;
+    padding-top:5px;
+    font-family: 'Lato', sans-serif;
+
+    
+}
+
+#mv{
+    margin-left:15px;
+}
+
+.og{
+    color:#C11C00;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+}
+
+.wt{
+   color: #fff;
+   font-family: 'Roboto', sans-serif;
+
+}
+
+.jumbotron h1{
+    color:#aaa;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.logo{
+    color:#FB3E14;
+}
+
+
+.ct{
+    color:#FB3E14;
+}
+
+
+#select li{
+    margin-right:-10px;
+    color:#A59F9E;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#select li:last-child{
+    color:#4c4c4c;
+}
+
+
+hr{
+    height:4px;
+    background-color:#aaa;
+}
+
+input[type="text"]{
+background-color:gray !important
+}
+
+textarea{ 
+    background-color:gray !important;
+}
+
+.btn{
+    background-color: #FB3E14;
+    color:#fff;
+    font-family: 'Montserrat', sans-serif;
+    width:100px;
+    
+}
+
+
+#free li{
+    padding-left:10px;
+}
+
+
+.dropbtn {
+    background-color:transparent;
+    color: #000;
+    padding: 16px;
+        font-family: 'Montserrat', sans-serif;
+    width:80px;
+    font-size: 10px;
+    cursor: pointer;
+    padding: 0;
+border: none;
+background: none;
+    border-bottom:5px solid #FF3204;
+
+    
+
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border-bottom-color: #fb3e14;
+    min-width: 80px;
+    background-color:#aaa;
+}
+
+.dropdown-content a {
+    color: black;
+    font-size:8px;
+    
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+#contact{
+    margin-left:30px;
+}
+
+#contact li{
+    background-color:#aaa;
+    height:45px;
+    width:45px;
+    margin-right:8px;
+
+}
+
+
+
+
+.reach p {
+    margin-top:-10px;
+}
+
+i{
+    color:white;
+        padding: 1em 0.75em 0.50em 0.75em;
+
+}
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
